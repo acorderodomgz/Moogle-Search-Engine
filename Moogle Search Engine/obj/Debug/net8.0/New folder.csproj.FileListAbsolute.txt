@@ -1,0 +1,28 @@
+C:\Users\osniel\Downloads\New folder\bin\Debug\net8.0\New folder.exe
+C:\Users\osniel\Downloads\New folder\bin\Debug\net8.0\New folder.deps.json
+C:\Users\osniel\Downloads\New folder\bin\Debug\net8.0\New folder.runtimeconfig.json
+C:\Users\osniel\Downloads\New folder\bin\Debug\net8.0\New folder.dll
+C:\Users\osniel\Downloads\New folder\bin\Debug\net8.0\New folder.pdb
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.AssemblyInfoInputs.cache
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.AssemblyInfo.cs
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.dll
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\refint\New folder.dll
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.pdb
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\New folder.genruntimeconfig.cache
+C:\Users\osniel\Downloads\New folder\obj\Debug\net8.0\ref\New folder.dll
+C:\Antonio\Developer\Moogle\bin\Debug\net8.0\New folder.exe
+C:\Antonio\Developer\Moogle\bin\Debug\net8.0\New folder.deps.json
+C:\Antonio\Developer\Moogle\bin\Debug\net8.0\New folder.runtimeconfig.json
+C:\Antonio\Developer\Moogle\bin\Debug\net8.0\New folder.dll
+C:\Antonio\Developer\Moogle\bin\Debug\net8.0\New folder.pdb
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.AssemblyInfoInputs.cache
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.AssemblyInfo.cs
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.csproj.CoreCompileInputs.cache
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.dll
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\refint\New folder.dll
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.pdb
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\New folder.genruntimeconfig.cache
+C:\Antonio\Developer\Moogle\obj\Debug\net8.0\ref\New folder.dll
